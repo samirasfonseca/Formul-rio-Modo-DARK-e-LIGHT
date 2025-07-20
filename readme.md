@@ -1,6 +1,6 @@
 # 🌓 Formulário Responsivo com Modo Dark/Light
 
-![Capa do Projeto](./assets/img/preview.png)
+![Capa do Projeto](preview.png)
 
 Formulário moderno, responsivo e estilizado com opção de alternância entre modo claro e escuro. Desenvolvido com HTML, CSS e JavaScript puro. O layout inclui campos de nome, e-mail, senha, redes sociais e transições suaves para uma ótima experiência do usuário.
 
